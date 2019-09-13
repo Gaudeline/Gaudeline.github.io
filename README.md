@@ -1,4 +1,6 @@
-# Entraînement Markdown  
+# Entraînement Markdown
+
+![printscreen](http://zupimages.net/viewer.php?id=19/37/44ca.png) 
 
 
 [Gaudeline](https://github.com/Gaudeline) aidé de [Ludivic](https://github.com/Ludgil), [Belinda](https://github.com/belindaschepers) et [Kevin](https://github.com/kevin-labtani) (oui je sais, c'était un exercice individuel...Mais comme on le dit si bien, l'union fait la force).  
